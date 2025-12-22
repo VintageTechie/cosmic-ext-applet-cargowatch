@@ -1,0 +1,13 @@
+[Desktop Entry]
+Name= Cargo Watch
+Exec=cosmic-ext-applet-cargowatch %F
+Terminal=false
+Type=Application
+StartupNotify=true
+Icon=com.vintagetechie.CosmicExtAppletCargoWatch
+Categories=COSMIC;
+Keywords=COSMIC
+MimeType=
+NoDisplay=true
+X-CosmicApplet=true
+X-CosmicHoverPopup=Auto
