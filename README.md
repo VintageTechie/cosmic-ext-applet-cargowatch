@@ -18,6 +18,10 @@ A disk space monitor applet for COSMIC Desktop.
 - Configurable poll interval
 - Persistent configuration
 
+## Screenshots
+
+![Applet popup showing drive list with usage bars and settings](screenshots/popup.png)
+
 ## Installation
 
 Clone the repository:
